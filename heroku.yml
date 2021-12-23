@@ -1,6 +1,0 @@
-build:
-  docker:
-      worker: Dockerfile
-      worker: bash ADX.sh
-run:
-   worker: python3 -m userbot
